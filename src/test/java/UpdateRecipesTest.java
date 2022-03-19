@@ -5,7 +5,7 @@ import static org.junit.Assert.assertEquals;
 public class UpdateRecipesTest {
     //TODO Before doing Task 3 remove "/*" and "*/" (Shortcut: Ctrl + Shift + /).
 
-    /*
+
     @Test
     public void testUpdate() {
         UpdateRecipes updateRecipes = new UpdateRecipes();
@@ -25,5 +25,5 @@ public class UpdateRecipesTest {
         assertEquals(1, updateRecipes.getItems().size());
         assertEquals(description, updateRecipes.getItems().get(0)[1]);
     }
-    */
+
 }
